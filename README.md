@@ -1,2 +1,2 @@
-# WaterBottle_Takataka
- A 3D model, texturing, lighting and animation of a water bottle using blender 
+# Blender_Models
+ A 3D model, texturing, lighting and animation of object models using blender 
